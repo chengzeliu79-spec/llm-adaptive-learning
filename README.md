@@ -46,7 +46,7 @@ Our method demonstrates superior performance across multiple dynamic environment
 │   ├── adaptive.py      # Adaptive learning algorithms
 │   └── utils.py         # Utility functions for adaptive learning
 ├── data/                # Dynamic environment datasets
-├── experiments/        # Experimental configurations and scripts
+├── experiments/         # Experiment configurations and scripts
 ├── results/           # Performance analysis and visualizations
 └── notebooks/         # Analysis and demonstration notebooks
 ```
@@ -56,7 +56,7 @@ Our method demonstrates superior performance across multiple dynamic environment
 ### Installation
 
 ```bash
-git clone https://github.com/mcptest-user/llm-adaptive-learning.git
+git clone https://github.com/chengzeliu79-spec/llm-adaptive-learning.git
 cd llm-adaptive-learning
 pip install -r requirements.txt
 ```
